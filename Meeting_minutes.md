@@ -4,6 +4,7 @@
 3. Optimize to get better values for R2 score, MAE, MSE, RMSE
 4. Try to use hyperparameter tuning to get better prediction
 5. Try using visualization tools like Residual plots, ROC, AUC
+6. Google to find suggestions for tuning in stackoverflow and other forums
 #### 18-Aug-2025
 1. Need to learn about different classifiers.
 2. Need to choose 3 to 5 problem statements for applying different classifiers.
