@@ -1,18 +1,18 @@
-###01-AUG-2025
+### 01-AUG-2025
 1. Learning about RIDGE regression
-###30-AUG-2025
+### 30-AUG-2025
 1. Played with different values of data sizes and prediction time values
-###28-AUG-2025
+### 28-AUG-2025
 1. Trying out stock price prediction using linear regression
-###26-AUG-2025
+### 26-AUG-2025
 1. Learning about linear regression
-###25-AUG-2025
+### 25-AUG-2025
 1. Started with Stock price prediction
 2. Studying about game theory
-###24-AUG-2025
+### 24-AUG-2025
 1. Selected problems for projects - Real-time Sentiment Analysis, Stock Price Prediction, Step by Step NLP with Python, WhatsApp Chats Sentiment Analysis
-###21-AUG-2025
+### 21-AUG-2025
 1. Learning about game theory
-###19-AUG-2025
+### 19-AUG-2025
 1. Started to learn about game theory.
 2. Started with behaviourial game theory.
