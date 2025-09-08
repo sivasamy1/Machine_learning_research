@@ -1,3 +1,5 @@
+###01-AUG-2025
+1. Learning about RIDGE regression
 ###30-AUG-2025
 1. Played with different values of data sizes and prediction time values
 ###28-AUG-2025
